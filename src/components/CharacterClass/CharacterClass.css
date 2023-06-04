@@ -1,0 +1,18 @@
+.character-class{
+    text-align: center;
+    padding: 32px;
+}
+
+.character-class h3 {
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.character-class .personagems{
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    flex-wrap: wrap; /* joga pra linha de baixo*/
+}
